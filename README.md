@@ -3,4 +3,4 @@
 
 Linkedin: https://www.linkedin.com/in/lu%C3%A3-melo-silva-636a96231/
 
-Github: https://zmelogod.github.io/Starbucks/#
+Github: https://luamelosilva.github.io/Starbucks/#
